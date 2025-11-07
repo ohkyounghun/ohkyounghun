@@ -6,7 +6,7 @@
 
 ### 🧠 About Me  
 🎓 **Seoul National University of Science and Technology (SeoulTech)**  
-📚 Major in **Industrial & Management Systems Engineering (ITM)**  
+📚 Major in **Information Technology Management (ITM)**  
 💡 Passionate about **Backend Development**, **Database Systems**, and **Fintech Solutions**  
 🏅 Certified **SQL Developer (SQLD)**  
 🌱 Currently exploring **Java-based backend architecture** and **cloud fundamentals (AWS)**  
