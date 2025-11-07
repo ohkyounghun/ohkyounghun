@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Kyunghun Oh</h1>
-<h3 align="center">💻 Backend Developer & Industrial Management Student @ SeoulTech</h3>
+<h3 align="center">💻 Backend Developer & ITM Student @ SeoulTech</h3>
 
 ---
 
