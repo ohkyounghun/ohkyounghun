@@ -49,5 +49,4 @@
 
 ### 📜 Certifications  
 🏅 **SQLD (SQL Developer)** — Korea Data Agency (한국데이터산업진흥원)  
-☁️ Currently studying **AWS Cloud Practitioner (Foundational)**  
  
