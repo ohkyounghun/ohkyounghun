@@ -43,7 +43,14 @@
 #### 🧮 Custom Floating-Point Type (`myType`)  
 > A C-language project implementing a **precision-improved float type**  
 - Performed **bit-level manipulation** and custom arithmetic handling  
-- Compared precision and overflow behaviors against standard `float`  
+- Compared precision and overflow behaviors against standard `float`
+
+#### 📄 CheckMate (OSS Team Project 2025)  
+> A document validation platform built with **Java Spring Boot** and **React**  
+- Developed backend **REST APIs** for file upload and validation processing  
+- Integrated **OpenAI API** for automated document evaluation  
+- Designed modular service architecture with configuration and exception handling  
+- Collaborated using **GitHub Issues**, **PR reviews**, and role-based workflow  
 
 ---
 
